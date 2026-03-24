@@ -93,7 +93,8 @@ c.close()
 ```
 ## Output
 <img width="1581" height="930" alt="542553823-5052196d-d783-4d18-b6b8-0c0854342c9c" src="https://github.com/user-attachments/assets/03e5b397-84c2-4069-b597-06b4a457709c" />
-<img width="1491" height="977" alt="542552782-7916ea8e-3000-4043-a039-d9f6f08516db" src="https://github.com/user-attachments/assets/d02b9fa8-21b8-47ac-8c58-07316a927a89" />
+<img width="1491" height="977" alt="542552782-7916ea8e-3000-4043-a039-d9f6f08516db" src="https://github.com/user-attachments/assets/2f760c47-49e5-4115-ba0f-0b5527188025" />
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
